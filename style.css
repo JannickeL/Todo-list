@@ -1,0 +1,16 @@
+ul > li { 
+  color: rgb(32, 32, 32); 
+  cursor: pointer; 
+}
+
+.completed {
+  text-decoration: line-through; 
+}
+
+#addTask {
+  margin-top: 15px; 
+}
+
+.is-spaced {
+  margin-left: 5px;
+}
